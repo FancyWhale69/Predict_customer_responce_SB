@@ -15,6 +15,7 @@ P.S: complete means either they use the offer like a discount or buy 1 get 1, or
 
 # File Descriptions  
 StarBucks_capstone.ipynb- this notebook contains my analysis, trining paramter, results, and conclusion.  
+archive.zip- contains the original data files in .csv format (need to use if you want to run the analysis in the notbook).  
 StarBucks_webapp\data - folder contains data files in .csv format.  
 StarBucks_webapp\models- folder contains traind ML model.  
 StarBucks_webapp\app\run.py- python script to run the web app.  
